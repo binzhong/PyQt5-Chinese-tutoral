@@ -491,3 +491,6 @@ self.move(qr.topLeft())
 程序预览：
 
 ![center](./images/1-center.png)
+
+* [上一章：介绍](介绍.md)
+* [下一章：菜单和工具栏](菜单和工具栏.md)
